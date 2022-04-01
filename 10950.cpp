@@ -12,3 +12,5 @@ int main() {
 	}
 	return 0;
 }
+
+// for문으로 썻다가 while로 변경함 아직 while문 어색..;
